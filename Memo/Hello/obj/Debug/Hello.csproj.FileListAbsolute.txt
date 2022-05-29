@@ -1,0 +1,12 @@
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\bin\Debug\Hello.exe.config
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\bin\Debug\Hello.exe
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\bin\Debug\Hello.pdb
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.Form1.resources
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.Properties.Resources.resources
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.exe
+C:\Users\도형\Source\Repos\kdh5107\Memo\Hello\obj\Debug\Hello.pdb
+C:\Users\도형\source\repos\kdh5107\Memo\Hello\obj\Debug\Hello.info.resources
